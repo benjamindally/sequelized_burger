@@ -1,0 +1,39 @@
+body {
+  background: pink;
+  /* margin: auto;
+  text-align: center; */
+}
+
+.header {
+  background: pink;
+}
+h3 {
+  margin-bottom: 20px;
+}
+p {
+  display: inline;
+  padding: 9px;
+}
+
+ul {
+  list-style-type: none;
+  margin-right: 40px;
+}
+
+.burger_wrapper {
+  margin: auto;
+  width: 15rem;
+}
+
+.munched_wrapper {
+  margin: auto;
+  width: 15rem;
+}
+.create_burger {
+  width: 15rem;
+  margin: 0px auto 15px auto;
+}
+#submit {
+  width: 15rem;
+  text-align: center;
+}
